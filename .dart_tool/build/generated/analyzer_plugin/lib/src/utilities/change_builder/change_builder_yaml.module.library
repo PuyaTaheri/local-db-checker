@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/src/generated/source.dart","analyzer_plugin|lib/src/utilities/change_builder/change_builder_core.dart","analyzer_plugin|lib/utilities/change_builder/change_builder_core.dart","analyzer_plugin|lib/utilities/change_builder/change_builder_yaml.dart","yaml|lib/yaml.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

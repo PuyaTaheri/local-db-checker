@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["analyzer|lib/src/dart/analysis/driver.dart","analyzer_plugin|lib/plugin/plugin.dart","analyzer_plugin|lib/protocol/protocol.dart","analyzer_plugin|lib/src/utilities/occurrences/occurrences.dart","analyzer_plugin|lib/utilities/occurrences/occurrences.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

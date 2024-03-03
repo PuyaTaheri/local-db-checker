@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["get_it|lib/get_it.dart","localdbchecker|lib/data/datasources/local/database/database.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

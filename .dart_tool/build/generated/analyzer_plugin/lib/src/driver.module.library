@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer_plugin|lib/plugin/plugin.dart","analyzer_plugin|lib/src/channel/isolate_channel.dart","analyzer_plugin|lib/starter.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["isolate"],"hasMain":false}

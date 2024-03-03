@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer_plugin|lib/protocol/protocol.dart","analyzer_plugin|lib/protocol/protocol_common.dart","analyzer_plugin|lib/protocol/protocol_generated.dart","analyzer_plugin|lib/utilities/change_builder/conflicting_edit_exception.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["collection","convert"],"hasMain":false}

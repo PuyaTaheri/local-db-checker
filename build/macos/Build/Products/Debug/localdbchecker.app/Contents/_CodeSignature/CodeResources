@@ -16,6 +16,10 @@
 		<data>
 		bR8Cdgms/Vwwgnk2S5ONcTjgFOg=
 		</data>
+		<key>Resources/GoogleService-Info.plist</key>
+		<data>
+		72CROc9TQ7d5yvXa6H0pBk9LJp8=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -23,10 +27,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			rAKEpbucWzjUAAB86sIxHgcUn0U=
+			wzKeiZl/1qPCfxyFzJ17gpwBcWk=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"ac0284a5bb9c5b38d400007ceac2311e07149f45"</string>
+			<string>cdhash H"c3329e89997fd6a3c27f1c85cc9d7b829c017169"</string>
 		</dict>
 		<key>Frameworks/FlutterMacOS.framework</key>
 		<dict>
@@ -190,6 +194,33 @@
 			<key>requirement</key>
 			<string>cdhash H"3406aab10f486b91c2d9334de341504de56a5631" or cdhash H"73e04119822f2d8cd5eeb426ddac2b2b98295def"</string>
 		</dict>
+		<key>Frameworks/path_provider_foundation.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			vmhN4Id/AZUFPjsETeMLew/v7Ec=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"be684de0877f0195053e3b044de30b7b0fefec47"</string>
+		</dict>
+		<key>Frameworks/sqlite3.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			NOb+AOpoICyi6xqTDaNutYsqS0k=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"34e6fe00ea68202ca2eb1a930da36eb58b2a4b49"</string>
+		</dict>
+		<key>Frameworks/sqlite3_flutter_libs.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			186wrzbEECRjmrKCjqm5qJGTcNw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"d7ceb0af36c41024639ab2828ea9b9a8919370dc"</string>
+		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
 			<key>hash2</key>
@@ -209,6 +240,13 @@
 			<key>hash2</key>
 			<data>
 			HvyeWH/vkUY6aNaNrnzxa6jPFpS4gDkiezMo5cXbLlU=
+			</data>
+		</dict>
+		<key>Resources/GoogleService-Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/xtmxDog6AKp+ILMxaFM7STr+9Ri418t31WiS7HwNMg=
 			</data>
 		</dict>
 	</dict>

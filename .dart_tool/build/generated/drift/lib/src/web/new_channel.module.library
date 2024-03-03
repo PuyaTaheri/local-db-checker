@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["stream_channel|lib/stream_channel.dart","web|lib/web.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["js_interop"],"hasMain":false}

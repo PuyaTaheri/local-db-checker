@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "570732422793",
+    "firebase_url": "https://fleetcheck-technician.firebaseio.com",
+    "project_id": "fleetcheck-technician",
+    "storage_bucket": "fleetcheck-technician.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570732422793:android:0b49d3057443a8e6b34858",
+        "android_client_info": {
+          "package_name": "com.example.localdbchecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570732422793-fbfdlhtn2b00hncp7vj8fa714be21b1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ6ZCta8ut7_-E2-EJrVdyc2rXao7oWX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570732422793-fbfdlhtn2b00hncp7vj8fa714be21b1i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "570732422793-2vs64j4a2ab8hsutpmub2qo39eo5l7ev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fleetcheck.fleetchecktechnician"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570732422793:android:739e92ec1d15b02ab34858",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570732422793-fbfdlhtn2b00hncp7vj8fa714be21b1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ6ZCta8ut7_-E2-EJrVdyc2rXao7oWX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570732422793-fbfdlhtn2b00hncp7vj8fa714be21b1i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "570732422793-2vs64j4a2ab8hsutpmub2qo39eo5l7ev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fleetcheck.fleetchecktechnician"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570732422793:android:5489248f02419e2ab34858",
+        "android_client_info": {
+          "package_name": "com.fleetcheck.fleetchecktechnician"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570732422793-fbfdlhtn2b00hncp7vj8fa714be21b1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ6ZCta8ut7_-E2-EJrVdyc2rXao7oWX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570732422793-fbfdlhtn2b00hncp7vj8fa714be21b1i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "570732422793-2vs64j4a2ab8hsutpmub2qo39eo5l7ev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fleetcheck.fleetchecktechnician"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

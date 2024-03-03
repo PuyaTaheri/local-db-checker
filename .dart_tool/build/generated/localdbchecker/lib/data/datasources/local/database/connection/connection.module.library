@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":[],"parts":[],"conditionalDeps":[{"$default":"localdbchecker|lib/data/datasources/local/database/connection/unsupported.dart","dart.library.js":"localdbchecker|lib/data/datasources/local/database/connection/web.dart","dart.library.ffi":"localdbchecker|lib/data/datasources/local/database/connection/native.dart"}],"sdkDeps":[],"hasMain":false}

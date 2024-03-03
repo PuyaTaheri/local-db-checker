@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["analyzer|lib/src/dart/analysis/driver.dart","analyzer_plugin|lib/plugin/plugin.dart","analyzer_plugin|lib/protocol/protocol.dart","analyzer_plugin|lib/src/utilities/outline/outline.dart","analyzer_plugin|lib/utilities/outline/outline.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

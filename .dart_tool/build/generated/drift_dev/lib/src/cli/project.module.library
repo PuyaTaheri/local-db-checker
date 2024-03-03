@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["build_config|lib/build_config.dart","drift_dev|lib/src/analysis/options.dart","drift_dev|lib/src/utils/options_reader.dart","path|lib/path.dart","stream_transform|lib/stream_transform.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["io"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["analyzer_plugin|lib/starter.dart","drift_dev|lib/src/backends/plugin/plugin.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["isolate"],"hasMain":false}

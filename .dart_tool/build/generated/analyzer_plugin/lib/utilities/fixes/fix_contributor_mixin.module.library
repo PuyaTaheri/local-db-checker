@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["analyzer|lib/error/error.dart","analyzer|lib/src/generated/java_core.dart","analyzer_plugin|lib/protocol/protocol_generated.dart","analyzer_plugin|lib/utilities/change_builder/change_builder_core.dart","analyzer_plugin|lib/utilities/fixes/fixes.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

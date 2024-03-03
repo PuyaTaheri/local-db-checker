@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/instrumentation/instrumentation.dart","analyzer_plugin|lib/channel/channel.dart","analyzer_plugin|lib/protocol/protocol.dart","analyzer_plugin|lib/protocol/protocol_generated.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","convert","isolate"],"hasMain":false}

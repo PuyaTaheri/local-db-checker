@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["analyzer|lib/dart/element/element.dart","analyzer_plugin|lib/protocol/protocol_common.dart","analyzer_plugin|lib/utilities/completion/relevance.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

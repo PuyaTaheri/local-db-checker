@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","drift|lib/src/web/binary_string_conversion.dart","drift|lib/src/web/wasm_setup/shared.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["html","indexed_db","typed_data"],"hasMain":false}

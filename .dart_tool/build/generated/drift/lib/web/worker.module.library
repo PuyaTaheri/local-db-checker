@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["async|lib/async.dart","drift|lib/drift.dart","drift|lib/remote.dart","drift|lib/src/web/channel.dart","stream_channel|lib/stream_channel.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","html"],"hasMain":false}
